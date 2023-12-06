@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "cstdlib": "c",
+    "locale": "c",
+    "ostream": "c",
+    "new": "c",
+    "string": "c",
+    "iosfwd": "c",
+    "__locale": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
