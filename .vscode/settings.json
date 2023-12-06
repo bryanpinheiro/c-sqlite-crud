@@ -6,7 +6,8 @@
     "new": "c",
     "string": "c",
     "iosfwd": "c",
-    "__locale": "c"
+    "__locale": "c",
+    "todo.h": "c"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
